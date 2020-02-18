@@ -14,6 +14,7 @@
 
 /**
  * Adds a random greeting to the page.
+ * Random comment.
  */
 function addRandomGreeting() {
   const greetings =
